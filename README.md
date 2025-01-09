@@ -1,2 +1,2 @@
 # coffeemenu_project
-this is a simple project from freecodecamp i made by learning css
+hey, my name is tolman and this is a simple project i built when learning css on freecodecamp
